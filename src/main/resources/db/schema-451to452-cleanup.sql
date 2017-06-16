@@ -1,0 +1,3 @@
+--;
+-- Schema cleanup from 4.5.1 to 4.5.2;
+--;
